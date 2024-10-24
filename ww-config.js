@@ -3,7 +3,7 @@ export default {
     label: {
       en: "My Element",
     },
-    inherits: []
+    inherit: {}
   },
   properties: {
     textColor: {
