@@ -6,6 +6,10 @@
     "serve": "weweb serve"
   },
   "devDependencies": {
-    "@weweb/cli": "latest"
+    "@weweb/cli": "latest",
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "preline": "^2.5.1"
   }
 }
