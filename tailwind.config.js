@@ -2,7 +2,7 @@
 module.exports = {
   content: [
     "./src/wwElement.vue",
-    './node_modules/preline/preline.js',
+    // './node_modules/preline/preline.js',
   ],
   theme: {
     extend: {},
