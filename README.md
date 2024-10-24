@@ -23,3 +23,5 @@ Before release, you can check build error by running `npm run build --name=my-el
  - install tailwind [Tailwind Installation](https://tailwindcss.com/docs/installation)
  - then install preline
 
+
+## Used [this](https://github.vue.tailwind-prefix.cbass.dev/) for adding prefix to tailwind classes.
