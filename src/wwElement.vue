@@ -36,4 +36,7 @@ export default {
     font-size: 18px;
   }
 }
+button {
+  cursor: pointer;
+}
 </style>
