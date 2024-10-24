@@ -30,9 +30,7 @@ export default {
 };
 </script>
 
-<style src="./output.css"></style>
-
-<style lang="scss" scoped>
+<style lang="scss" scoped src="./output.css">
 .my-element {
   p {
     font-size: 18px;
