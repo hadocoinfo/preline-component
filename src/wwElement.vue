@@ -15,7 +15,7 @@
 
 
 <script>
-import "./output.css";
+
 export default {
   props: {
     content: { type: Object, required: true },
@@ -30,7 +30,7 @@ export default {
 };
 </script>
 
-
+<style src="./output.css"></style>
 
 <style lang="scss" scoped>
 .my-element {
