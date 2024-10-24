@@ -507,8 +507,8 @@ Set the default cursor for buttons.
 
 button,
 [role="button"] {
-  cursor: pointer;
-}
+  cursor: pointer !important;
+} 
 
 /*
 Make sure disabled buttons don't get the pointer cursor.
