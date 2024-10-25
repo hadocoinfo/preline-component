@@ -640,3 +640,7 @@ video {
 .disabled\:tw-opacity-50:disabled {
   opacity: 0.5;
 }
+
+.tw-button {
+  cursor: not-allowed !important;
+}
