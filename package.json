@@ -3,7 +3,8 @@
   "version": "0.0.2",
   "scripts": {
     "build": "weweb build",
-    "serve": "weweb serve"
+    "serve": "weweb serve",
+    "postbuild": "node cleanup-css.js"
   },
   "devDependencies": {
     "@weweb/cli": "latest",
